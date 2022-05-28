@@ -72,12 +72,12 @@ const AboutPage = () => {
             <img src={astronaut} alt="spaceman" />
         </Spaceman>    
         <Main>
-        I'm a front-end developer located in India. I love to create simple yet beautiful websites with great user experience.
+         Myself Vansh Sharma Frontend Web Developer providing best user experience and interface websites
 <br /> <br/>
-I'm interested in the whole frontend stack Like trying new things and building great projects. I'm an independent freelancer and blogger. I love to write blogs and read books.
+I am keen to know about the whole web development structure including backend development which i am exploring in my future projects.
 <br/> <br/>
-I believe everything is an Art when you put your consciousness in it. You can connect with me via social links.
-        </Main>
+                    Contact me through my social handles Open for internships and part time jobs
+                </Main>
 
         <BigTitle text="ABOUT" top="10%" left="5%" />
 
