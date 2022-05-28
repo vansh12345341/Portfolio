@@ -12,7 +12,7 @@ export const Work = [
     },
     {
         id:2,
-        name:"Job listing website",
+        name:"Job",
         description:"A Job listing website build in ReactJS. With searching and filtering functionalities.",
         tags:["react","sass"],
         
