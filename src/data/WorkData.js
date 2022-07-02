@@ -3,60 +3,41 @@
 export const Work = [
     {
         id:1,
-        name:"Agency Landing Page",
-        description:"It is build on top of the React JS, with styledComponents and GSAP for smooth scrolling animations.",
-        tags:["react","gsap","styledComponents"],
+        name:"Real Estate ",
+        description:"This Websiet is made using NEXT JS , Rapid API for data , and chakra UI for interface",
+        tags:["react", "next js", " API"],
         
-        demo:"https://agency-website-eta.vercel.app/",
-        github:"https://github.com/codebucks27/Agency-website"
+        demo:"https://estate-green.vercel.app/",
+        github:"https://github.com/vansh12345341/Estate"
     },
     {
         id:2,
-        name:"Job",
-        description:"A Job listing website build in ReactJS. With searching and filtering functionalities.",
-        tags:["react","sass"],
+        name:"Starbucks Clone",
+        description:"A Frontend Starbucks clone made using React , Redux Store , framer motion and Firebase",
+        tags:["react","Firebass"],
         
-        demo:"http://react-job-listing-website.codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/react-job-listing-website"
+        demo:"starbucks-clone-ten.vercel.app/",
+        github:"https://github.com/vansh12345341/Starbucks--Clone"
         
     },
     {
         id:3,
-        name:"Dev.to Clone",
+        name:"Expense Tracker",
         description:"A clone of Dev.to build using ReactJS. With realtime fetching of articles from dev.to using API.",
         tags:["react","api","sass"],
         
-        demo:"http://devto-clone-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/devto-clone"
+        demo:"https://expense-tracker-six-woad.vercel.app/",
+        github:"https://github.com/vansh12345341/Expense-Tracker"
     },
     {
         id:4,
-        name:"Sidebar Menu",
+        name:"Item Menu",
         description:"A cool looking sidebar menu build using ReactJS and styledComponents.It has really smooth animations.",
         tags:["react","styledComponents","react-router"],
         
-        demo:"https://react-sidebar.vercel.app/",
-        github:"https://github.com/codebucks27/react-sidebar"
+        demo:"https://item-menu.vercel.app/",
+        github:"https://github.com/vansh12345341/Item-menu-"
        
-    },{
-        id:5,
-        name:"Todo App(React + Redux)",
-        description:"A todo app build using Redux-toolkit and framer-motion for smooth animations.",
-        tags:["react","redux","framer-motion"],
-        
-        demo:"http://react-redux-todo-app-git-main-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/React-Redux-Todo-App"
-        
-    },
-    {
-        id:6,
-        name:"Responsive Navigation Menu",
-        description:"A reponsive navbar menu component in ReactJS with react-router functionalities. Built from scratch.",
-        tags:["react","react-router","css"],
-        
-        demo:"http://react-responsive-navbar-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/React-responsive-navbar"
-        
     },
     
   
