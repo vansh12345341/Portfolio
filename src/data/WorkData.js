@@ -16,7 +16,7 @@ export const Work = [
         description:"A Frontend Starbucks clone made using React , Redux Store , framer motion and Firebase",
         tags:["react","Firebass"],
         
-        demo:"starbucks-clone-ten.vercel.app/",
+        demo:"https://starbucks-clone-ten.vercel.app/",
         github:"https://github.com/vansh12345341/Starbucks--Clone"
         
     },

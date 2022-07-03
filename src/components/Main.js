@@ -146,7 +146,7 @@ const Main = () => {
                 <span>click here</span>
             </Center>
 
-            <Contact target="_blank" to={{pathname:"vansh432.sharma@gmail.com"}}>
+            <Contact target="_blank" to={{pathname:"https://www.linkedin.com/in/vansh-sharma-20b868210/"}}>
                 <motion.h2
                 initial={{
                     y:-200,
