@@ -4,11 +4,11 @@ export const Work = [
     {
         id:1,
         name:"Real Estate ",
-        description:"This Websiet is made using NEXT JS , Rapid API for data , and chakra UI for interface",
-        tags:["react", "next js", " API"],
+        description:"Zomato Data Analysis using python and visualization libraries",
+        tags:["python","numpy&pandas", "matplotlib"],
         
-        demo:"https://estate-green.vercel.app/",
-        github:"https://github.com/vansh12345341/Estate"
+        demo:"https://github.com/vansh12345341/Zomato__EDA/blob/main/Zomato%20Analysis.ipynb",
+        github:"https://github.com/vansh12345341/Zomato__EDA"
     },
     {
         id:2,

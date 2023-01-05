@@ -93,19 +93,19 @@ const MySkillsPage = () => {
 <ParticleComponent theme='light' />
             <Main>
 <Title>
-    <Design width={40} height={40} /> Designer
+    <Design width={40} height={40} /> Analysis and Insights
 </Title>
 <Description>
-I love to create design which speaks, Keep it clean, minimal and simple.
+I love to Analyise data and find meaningful insights from that data
 </Description>
 <Description>
-<strong>I like to Design</strong>
+<strong>I like to breakdown data </strong>
 <ul>
     <li>
-        Web Design
+        Exploratory Data Analysis
     </li>
     <li>
-        Mobile Apps
+       Data preparation and cleaning
     </li>
 </ul>
 </Description>
@@ -113,7 +113,7 @@ I love to create design which speaks, Keep it clean, minimal and simple.
 <strong>Tools</strong>
 <ul>
     <li>
-       Figma
+       Data Visualization
     </li>
     
 </ul>
@@ -122,21 +122,21 @@ I love to create design which speaks, Keep it clean, minimal and simple.
             </Main>
             <Main>
 <Title>
-    <Develope width={40} height={40} /> Frontend Developer
+    <Develope width={40} height={40} /> Designing and visualization
 </Title>
 <Description>
-I value business or brand for which i'm creating, thus i enjoy bringing new ideas to life.
+I provide those insights in way thats appealing to all the users or companies interested in that data
 </Description>
 <Description>
 <strong>Skills</strong>
 <p>
-Html, Css, Js, React, Redux, Sass, Bootstrap, Tailwind, Firebase etc.
+Python , C++ , Excel , SQL , MongoDB , Power BI , Tableua 
 </p>
 </Description>
 <Description>
 <strong>Tools</strong>
 <p>
-VScode, Github, Codepen etc.
+VScode, Github, Jupyter Notebook
 </p>
 </Description>
 
