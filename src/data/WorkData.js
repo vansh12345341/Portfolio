@@ -3,7 +3,7 @@
 export const Work = [
     {
         id:1,
-        name:"Real Estate ",
+        name:"Zomato Data Analysis",
         description:"Zomato Data Analysis using python and visualization libraries",
         tags:["python","numpy&pandas", "matplotlib"],
         
@@ -12,22 +12,22 @@ export const Work = [
     },
     {
         id:2,
-        name:"Starbucks Clone",
-        description:"A Frontend Starbucks clone made using React , Redux Store , framer motion and Firebase",
-        tags:["react","Firebass"],
+        name:"Olympics Data Analysis",
+        description:"Finding insights on Past olympics dataset using python",
+        tags:["python","streamlit"],
         
-        demo:"https://starbucks-clone-ten.vercel.app/",
-        github:"https://github.com/vansh12345341/Starbucks--Clone"
+        demo:"https://github.com/vansh12345341/Olympics-Data-Analysis/blob/main/README.md",
+        github:"https://github.com/vansh12345341/Olympics-Data-Analysis"
         
     },
     {
         id:3,
-        name:"Expense Tracker",
-        description:"A clone of Dev.to build using ReactJS. With realtime fetching of articles from dev.to using API.",
-        tags:["react","api","sass"],
+        name:"Tableua Dashboards",
+        description:"Creative Dashboards made using different datasets through tableua",
+        tags:["taleua", "excel","design"],
         
-        demo:"https://expense-tracker-six-woad.vercel.app/",
-        github:"https://github.com/vansh12345341/Expense-Tracker"
+        demo:"https://public.tableau.com/app/profile/vansh.sharma3095",
+        github:"https://public.tableau.com/app/profile/vansh.sharma3095"
     },
     {
         id:4,
