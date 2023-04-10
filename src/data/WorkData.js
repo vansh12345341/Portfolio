@@ -4,7 +4,7 @@ export const Work = [
     {
         id:1,
         name:"HTML CSS Webpage",
-        description:"Made a responsive eb page using HTML and CSS styles",
+        description:"Made a responsive web page using HTML and CSS styles",
         tags:["HTML", "CSS"],
         
         demo:"https://github.com/vansh12345341/htmlProject",
