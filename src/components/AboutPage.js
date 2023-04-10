@@ -72,9 +72,9 @@ const AboutPage = () => {
             <img src={astronaut} alt="spaceman" />
         </Spaceman>    
         <Main>
-         Myself Vansh Sharma Data Analyst and Business Analyst providing best insights from data and present to users through soft skilss.
+         Myself Vansh Sharma Frontend Developer developing Responsive and functional designs and websites and application
 <br /> <br/>
-I have a passion for using data to tell compelling stories and drive business decisions. My expertise in Excel , Power Bi , Tableua , Python , SQL , Statistics allows me to easily extract insights from large, complex data sets.
+I have a passion for web designing and handling backend too. My expertise in React , HTML , CSS , Nodejs
 <br/> <br/>
                     Contact me through my social handles Open for part time jobs and full time role
                 </Main>

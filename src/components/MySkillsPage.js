@@ -93,19 +93,19 @@ const MySkillsPage = () => {
 <ParticleComponent theme='light' />
             <Main>
 <Title>
-    <Design width={40} height={40} /> Analysis and Insights
+    <Design width={40} height={40} /> Web Designing
 </Title>
 <Description>
-I love to Analyise data and find meaningful insights from that data
+I love to design and customize websites for user friendly content
 </Description>
 <Description>
-<strong>I like to breakdown data </strong>
+<strong>I like to </strong>
 <ul>
     <li>
-        Exploratory Data Analysis
+    Design
     </li>
     <li>
-       Data preparation and cleaning
+       Code
     </li>
 </ul>
 </Description>
@@ -125,12 +125,12 @@ I love to Analyise data and find meaningful insights from that data
     <Develope width={40} height={40} /> Designing and visualization
 </Title>
 <Description>
-I provide those insights in way thats appealing to all the users or companies interested in that data
+I provide those designs in way thats appealing to all the users or companies interested in that design and functionality
 </Description>
 <Description>
 <strong>Skills</strong>
 <p>
-Python , C++ , Excel , SQL , MongoDB , Power BI , Tableua 
+ReactJS , HTML , CSS , JavaScript , NodeJS , SQL ,C++
 </p>
 </Description>
 <Description>
