@@ -3,12 +3,12 @@
 export const Work = [
     {
         id:1,
-        name:"Movie Recommendation System",
-        description:" movie recommendation project involved using data analysis and prediction techniques on an IMDb movie dataset",
-        tags:["python","numpy&pandas", "matplotlib"],
+        name:"HTML CSS Webpage",
+        description:"Made a responsive eb page using HTML and CSS styles",
+        tags:["HTML", "CSS"],
         
-        demo:"https://github.com/vansh12345341/Movie-Recommendation-System",
-        github:"https://github.com/vansh12345341/Movie-Recommendation-System"
+        demo:"https://github.com/vansh12345341/htmlProject",
+        github:"https://html-project-amber.vercel.app/",
     },
     {
         id:2,

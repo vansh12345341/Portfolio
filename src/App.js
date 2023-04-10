@@ -11,7 +11,7 @@ import BlogPage from './components/BlogPage';
 import WorkPage from './components/WorkPage';
 import MySkillsPage from './components/MySkillsPage';
 import { AnimatePresence } from "framer-motion";
-import SoundBar from "./subComponents/SoundBar";
+
 
 
 function App() {
@@ -24,7 +24,7 @@ function App() {
 
     <ThemeProvider theme={lightTheme}>
 
-    <SoundBar />
+   
 
 {/* For framer-motion animation on page change! */}
 <AnimatePresence exitBeforeEnter>
