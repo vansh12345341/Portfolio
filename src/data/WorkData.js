@@ -1,14 +1,16 @@
 // work data
 
 export const Work = [
+   
     {
-        id:1,
-        name:"HTML CSS Webpage",
-        description:"Made a responsive web page using HTML and CSS styles",
-        tags:["HTML", "CSS"],
+        id:4,
+        name:"DSA Tracker ",
+        description:"Interactive DSA Tracker made using react to track DSA question progress",
+        tags:["react","styledComponents","react-router"],
         
-        demo:"https://github.com/vansh12345341/htmlProject",
-        github:"https://html-project-amber.vercel.app/",
+        demo:"https://dsa-tracker-beige.vercel.app/",
+        github:"https://github.com/vansh12345341/DSA-Tracker"
+       
     },
     {
         id:2,
@@ -30,16 +32,7 @@ export const Work = [
         
     },
 
-    {
-        id:4,
-        name:"DSA Tracker ",
-        description:"Interactive DSA Tracker made using react to track DSA question progress",
-        tags:["react","styledComponents","react-router"],
-        
-        demo:"https://dsa-tracker-beige.vercel.app/",
-        github:"https://github.com/vansh12345341/DSA-Tracker"
-       
-    }, 
+     
     {
         id:5,
         name:"Expense Tracker",
