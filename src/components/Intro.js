@@ -74,14 +74,14 @@ const Intro = () => {
     return (
         <Box
         initial={{height:0}}
-        animate={{height: '55vh'}}
+        animate={{height: '70vh'}}
         transition={{ type: 'spring', duration:2, delay:1 }}
         >
             <SubBox>
                 <Text>
                     <h1>Hi</h1>
                     <h3>I am vansh sharma</h3>
-                    <h6>I design and code web-apps</h6>
+                    <h6>I design, build, and deploy scalable web applications, leveraging modern full-stack technologies. With expertise in both frontend and backend development</h6>
                 </Text>
             </SubBox>
             <SubBox>

@@ -32,10 +32,11 @@ const SocialIcons = (props) => {
     return (
         <Icons>
             <motion.div
-            initial={{transform:"scale(0)"}}
-            animate={{scale:[0,1,1.5,1]}}
-            transition={{type:'spring', duration:1, delay:1}}
-            >
+  initial={{ scale: 0 }}
+  animate={{ scale: [0, 1, 1.5, 1] }}
+  transition={{ type: 'tween', duration: 1, delay: 1 }}
+>
+
                 <NavLink style={{color:'inherit'}}  target="_blank"   to={{pathname:"https://github.com/vansh12345341"}}>
                     <Github width={25} height={25} fill={props.theme === "dark" ? DarkTheme.text  : DarkTheme.body  } />
                 </NavLink>

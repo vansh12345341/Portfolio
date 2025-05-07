@@ -72,11 +72,11 @@ const AboutPage = () => {
             <img src={astronaut} alt="spaceman" />
         </Spaceman>    
         <Main>
-         Myself Vansh Sharma Frontend Developer developing Responsive and functional designs and websites and application
+        I build scalable web and mobile apps with modern tech stacks
 <br /> <br/>
 I have a passion for web designing and handling backend too. My expertise in React , HTML , CSS , Nodejs
 <br/> <br/>
-                    Contact me through my social handles Open for part time jobs and full time role
+Currently SDE-1 at OnelabVentures, developing Nexiun (AI social app with image generation) using React Native, Node.js, and AWS. Previously at TIKAJ, I optimized Vue.js dashboards and streamlined loan APIs with MongoDB.
                 </Main>
 
         <BigTitle text="ABOUT" top="10%" left="5%" />
